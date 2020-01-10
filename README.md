@@ -1,3 +1,5 @@
 # sensory3p
 
-sensory3p project
+password: close*p
+
+(guess what is *)
